@@ -19,6 +19,8 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
+https://mern-chickytalk.herokuapp.com/
+
 ## Run Locally
 
 Clone the project
